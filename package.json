@@ -1,0 +1,24 @@
+{
+  "name": "github-extensao",
+  "version": "1.0.0",
+  "description": "Extensão para alterar o estilo do Github para se adequar.",
+  "main": "content.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleyara/github-extensao.git"
+  },
+  "keywords": [
+    "extensão",
+    "github",
+    "estilo"
+  ],
+  "author": "Wesley Araújo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wesleyara/github-extensao/issues"
+  },
+  "homepage": "https://github.com/wesleyara/github-extensao#readme"
+}
