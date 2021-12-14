@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "GithubExtension",
+    "version": "0.1",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://github.com/*", 
+                "https://www.linkedin.com/*"
+            ],
+            "css": [
+                "/dist/style.css"
+            ],
+            "js": [
+                "/dist/content.js"
+            ]
+        }
+    ]
+}
