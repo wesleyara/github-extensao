@@ -1,3 +1,7 @@
 .markdown-body.entry-content.container-lg {
     font-family: JetBrains Mono;
 }
+
+.link-without-visited-state.global-nav__primary-link.global-nav__primary-link--premium.global-nav__spotlight-upsell.premium-upsell-link--extra-long {
+    font-size: 8px;
+}
