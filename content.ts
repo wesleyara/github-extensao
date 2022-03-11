@@ -5,6 +5,6 @@ onload = () => {
     ".markdown-body.entry-content.container-lg.f5",
   ) as HTMLDivElement;
 
-  body.style.fontFamily = "JetBrains Mono";
-  readmePerfil.style.fontFamily = "JetBrains Mono";
+  body.style.fontFamily = "Helvetica";
+  readmePerfil.style.fontFamily = "Helvetica";
 };
